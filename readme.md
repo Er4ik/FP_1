@@ -11,6 +11,11 @@ npm install
 
 ### PureScript
 
+Run below code in **ps** folder:
+```
+spago build
+```
+
 ## Usage
 
 ### JavaScript
@@ -40,3 +45,9 @@ npm run dev:length
 ```
 
 ### PureScript
+
+To run **all** methods
+```
+cd ./ps
+spago run
+```
